@@ -1,0 +1,22 @@
+
+.registration {
+    width: 60%;
+    margin: 0 auto;
+    border: 2px solid rgb(225, 123, 20);
+    margin-top: 40px;
+    padding: 20px;
+
+}
+
+
+.error {
+    font-style: italic;
+    font-size: 16px;
+    color: rgb(255, 102, 0);
+}
+
+.success {
+    font-style: italic;
+    font-size: 16px;
+    color: rgb(209, 200, 193);
+}
